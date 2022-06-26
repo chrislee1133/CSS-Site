@@ -1,0 +1,59 @@
+.top-container {
+  background-color: #7F8487;
+  margin-top: 0;
+  margin-bottom: 0;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+
+.profilepic{
+  width: 150px;
+  height: 150px;
+}
+
+.skillpic{
+  width: 150px;
+  height: 150px;
+}
+
+.gamingpic{
+  width: 150px;
+  height: 150px;
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+h1 {
+  margin-top: 0;
+  margin: 0 auto 0 auto;
+    font-family: Satisfy, cursive;
+}
+
+body {
+  text-align: center;
+  margin: 0px;
+}
